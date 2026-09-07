@@ -1,0 +1,1024 @@
+[
+  {
+    "question":"What is the primary purpose of ZX Bank's ATM presence at major railway stations and airports in India?",
+    "answer":"The primary purpose of ZX Bank's ATM presence at major railway stations and airports in India is to provide 24x7 ATM access for customers' convenience.",
+    "category":"banking",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"ATMs at Railway Stations and Airports.md",
+    "file_type":".md",
+    "tags":[
+      "ATM",
+      "Railway Stations",
+      "Airports",
+      "Banking Services"
+    ],
+    "context":"# ZX Bank ATM Locations at Major Railway Stations and Airports\n\nZX Bank Ltd. provides 24x7 ATM access at the busiest travel hubs across India for your convenience. Here\u2019s a list of our ATM presence at leading railway stations and airports in top cities:\n\n---\n\n## 1. **Mumbai, Maharashtra**\n- **Railwa"
+  },
+  {
+    "question":"What is the address of the Kempegowda Majestic Bus Station A TM located in Bangalore, Karnataka?",
+    "answer":"Majestic, Near KSRTC Bus Stand, Bangalore, 560009",
+    "category":"banking",
+    "question_type":"factual",
+    "difficulty":"Easy",
+    "source_file":"ZX Bank ATMs at Major Bus Stands (India).pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Bangalore",
+      "Karnataka",
+      "ATM locations"
+    ],
+    "context":"Bangalore (Bengaluru) \u2013 Karnataka\n1. Kempegowda Majestic Bus Station A TM\n\u2022 Address: Majestic, Near KSRTC Bus Stand, Bangalore, 560009\n2. Shanthinagar Bus Stand A TM\n\u2022 Address: BMTC Bus Stand, Shanthinagar, Bangalore, 560027\n3. Mysore Road Satellite Bus Station A TM\n\u2022 Address: Mysore Road Satellite "
+  },
+  {
+    "question":"A customer from the North Surat branch calls the bank's customer service to inquire about the status of their loan application, which was submitted two weeks ago. The customer is informed that the loan has been approved, but they are asked to visit the branch to finalize the paperwork and receive their loan amount. However, when the customer arrives at the branch, they discover that it is closed for renovation and will reopen in three days' time.",
+    "answer":"The customer should contact the bank's customer service department via phone or email to inquire about an alternative date and time to visit the branch, or request to have the paperwork sent to their home address for signature. Alternatively, they could also consider visiting a nearby branch that offers similar services.",
+    "category":"banking",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Surat Branch Network.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "Surat Branch Network",
+      "Customer Service",
+      "Loan Application",
+      "Renovation"
+    ],
+    "context":"ZX Bank Surat Branch Network\n\nZX Bank Ltd.\u00a0is committed to delivering accessible and reliable banking services across Surat, one of Gujarat\u2019s fastest-growing urban centers. With a robust network spanning the city\u2019s North, South, East, West, and Central regions, ZX Bank ensures that individuals and b"
+  },
+  {
+    "question":"How does the geographical distribution of ZX Bank's branches in Surat compare to the overall growth pattern of the city?",
+    "answer":"The branch network of ZX Bank is strategically located across North, South, East, West, and Central regions of Surat, mirroring the city's urban sprawl and development. This suggests that the bank has a comprehensive presence in all areas of Surat, catering to diverse customer needs as the city grows.",
+    "category":"banking",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Surat Branch Network.md",
+    "file_type":".md",
+    "tags":[
+      "comparative analysis",
+      "geographical distribution",
+      "banking services"
+    ],
+    "context":"# ZX Bank Surat Branch Network\n\nZX Bank Ltd. is committed to delivering accessible and reliable banking services across Surat, one of Gujarat\u2019s fastest-growing urban centers. With a robust network spanning the city\u2019s North, South, East, West, and Central regions, ZX Bank ensures that individuals and"
+  },
+  {
+    "question":"What steps would you take to verify the IFSC code for a specific branch in North Ahmedabad, such as 21, Naranpura Main Road, Naranpura, and what information would you need to access this detail?",
+    "answer":"To verify the IFSC code for a specific branch in North Ahmedabad, you would follow these steps:",
+    "category":"banking",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Ahmedabad Branch Network.md",
+    "file_type":".md",
+    "tags":[
+      "Banking Procedures",
+      "Branch Network",
+      "Verification Process"
+    ],
+    "context":"# ZX Bank Ltd. \u2013 Ahmedabad Branch Network\n\nAhmedabad stands as a major financial and commercial hub in Western India, and ZX Bank Ltd. ensures robust banking accessibility throughout the city. With a strategically distributed network, ZX Bank branches serve retail, corporate, and digital banking cus"
+  },
+  {
+    "question":"What is the primary method for requesting a new cheque book through ZX Bank?",
+    "answer":"The primary method for requesting a new cheque book through ZX Bank is via their mobile app.",
+    "category":"banking",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Apply for a Cheque Book.md",
+    "file_type":".md",
+    "tags":[
+      "Cheque Book",
+      "ZX Bank",
+      "Mobile App",
+      "Banking Services"
+    ],
+    "context":"# How to Apply for a Cheque Book at ZX Bank\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.\n\n---\n\n## 1. **Via ZX Bank Mobile App**\n\n1. **Login:** Open the **ZX Bank Asia** app and log in "
+  },
+  {
+    "question":"What is the typical processing time for most cross-border transfers through ZX Bank's payment rails?",
+    "answer":"Most transfers are processed within minutes.",
+    "category":"banking",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Cross-Border Payments.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "cross-border payments",
+      "ZX Bank",
+      "payment processing times"
+    ],
+    "context":"Fast Cross-Border Payments with ZX Bank\nSeamless T ransfers Across South Asia\nZX Bank provides fast, secure cross-border payment services between\nIndia, Sri Lanka, Nepal, and Bhutan . Whether you\u2019re sending money\nhome, paying for business imports, or supporting family across the region, ZX\nBank guar"
+  },
+  {
+    "question":"What are the key features or services offered by ZX Bank's branch network in Nepal, as described in the document?",
+    "answer":"The key features or services offered by ZX Bank's branch network in Nepal include digital onboarding, remittance corridors, and personalized service.",
+    "category":"banking",
+    "question_type":"listing",
+    "difficulty":"Medium",
+    "source_file":"Branch Network in Nepal.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "banking services",
+      "digital onboarding",
+      "remittances",
+      "financial inclusion"
+    ],
+    "context":"ZX Bank Branch Network in Nepal\n\nZX Bank has established a robust and customer-focused branch network across Nepal, ensuring that both urban and semi-urban populations have easy access to modern banking services. With a strategic focus on digital onboarding, remittance corridors, and personalized se"
+  },
+  {
+    "question":"How do the terms and conditions of using CloudWay 24's co-brand credit card for booking flights directly with CloudWay 24 compare to those of other travel credit cards?",
+    "answer":"The terms and conditions of using CloudWay 24's co-brand credit card, as stated in the document, differ from those of other travel credit cards in that they require the use of a specific co-brand card for bookings made through CloudWay 24 to maximize SkyPoints. This is not a standard feature found in all travel credit cards.",
+    "category":"loans",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Co-brand Credit Cards.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "comparative analysis",
+      "travel credit cards",
+      "SkyPoints"
+    ],
+    "context":"Tip: Always use your CloudWay 24 co-brand card for booking\nflights directly with CloudWay 24 to maximize SkyPoints!\nT erms & Conditions apply . Point rates and benefits are subject to\nchange as per the issuing bank\u2019s and CloudW ay 24\u2019s policy .\n2"
+  },
+  {
+    "question":"You've just applied for the CloudWay 24 Co-brand Credit Card and received your welcome email. As you're planning a trip to Europe, you book a flight with an airline that's not part of the co-brand credit card network. How many SkyPoints will you earn on this booking?",
+    "answer":"According to the document, you'll earn 2% back in SkyPoints on all other spends. Since the flight is booked with an airline not part of the co-brand credit card network, you can apply the 2% earning rate.",
+    "category":"loans",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Co-brand Credit Cards.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "CloudWay 24 Co-brand Credit Cards",
+      "SkyPoints Earning Structure"
+    ],
+    "context":"CloudWay 24 Co-brand Credit Cards: Earn SkyPoints Faster!\n\n\n\nIntroducing CloudWay 24 Co-brand Credit Cards\n\nUnlock the best way to travel and reward yourself with SkyPoints! Our exclusive co-brand credit cards, in partnership with leading banks, allow you to accelerate your SkyPoints earnings every "
+  },
+  {
+    "question":"How does CloudWay 24's seating configuration in the Boeing 787 Dreamliner accommodate passengers with varying levels of comfort, considering factors such as personal space and amenities?",
+    "answer":"CloudWay 24's seating configuration is designed to cater to different passenger preferences by offering various cabin classes with distinct features. The CloudLux class provides 8 seats configured in a 1-2-1 layout, offering ample legroom and privacy due to the lie-flat suites with individual doors. In contrast, the CloudComfort class has 40 seats arranged in a 2-3-2 configuration, providing more space between rows but less personal attention compared to CloudLux.",
+    "category":"aircraft",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Boeing 787 Dreamliner.html",
+    "file_type":".html",
+    "tags":[
+      "Boeing 787 Dreamliner",
+      "seating"
+    ],
+    "context":"Boeing 787 Dreamliner \u2013 CloudWay 24 Fleet Overview\n\nCloudWay 24 operates a modern fleet of Boeing 787 Dreamliners, renowned for their fuel efficiency, passenger comfort, and advanced technology. Below is an overview of the aircraft\u2019s seating capacity and detailed breakdown of class-wise cabin featur"
+  },
+  {
+    "question":"What is the typical seating capacity configuration for CloudWay 24's international long-haul service on a Boeing 787 Dreamliner?",
+    "answer":"The typical seating capacity configuration for CloudWay 24's international long-haul service on a Boeing 787 Dreamliner is 290 seats, with a breakdown of class-wise cabin features as follows: CloudLux (8 seats), CloudElite (32 seats), and CloudComfort (40 seats).",
+    "category":"aircraft",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Boeing 787 Dreamliner.md",
+    "file_type":".md",
+    "tags":[
+      "Boeing 787 Dreamliner",
+      "CloudWay 24",
+      "seating capacity"
+    ],
+    "context":"# Boeing 787 Dreamliner \u2013 CloudWay 24 Fleet Overview\n\nCloudWay 24 operates a modern fleet of Boeing 787 Dreamliners, renowned for their fuel efficiency, passenger comfort, and advanced technology. Below is an overview of the aircraft\u2019s seating capacity and detailed breakdown of class-wise cabin feat"
+  },
+  {
+    "question":"What are the key features and services available in the Premium Economy class on the Boeing 787 Dreamliner, specifically CloudComfort?",
+    "answer":"The Premium Economy class on the Boeing 787 Dreamliner offers wider seats with extra legroom (38\u201d pitch), deeper recline, an amenity kit, plush blanket & pillow, upgraded meal selection, complimentary beverage service, and priority boarding.",
+    "category":"aircraft",
+    "question_type":"listing",
+    "difficulty":"Medium",
+    "source_file":"Boeing 787 Dreamliner.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Boeing 787 Dreamliner",
+      "CloudComfort",
+      "Premium Economy"
+    ],
+    "context":"3. CloudComfort (Premium Economy)\n\u2022 Seating: Wider seats, extra legroom (38\u201d pitch), deeper recline\n\u2022 Amenities: Amenity kit, plush blanket & pillow\n\u2022 Entertainment: 13-inch personal screen\n\u2022 Dining: Upgraded meal selection, complimentary beverage service\n\u2022 Other: Priority boarding\n4. CloudSaver (Ec"
+  },
+  {
+    "question":"What is the primary distinction between Premium Economy (CloudComfort) and Economy Class (CloudSaver) seating configurations?",
+    "answer":"The main difference lies in the seat pitch, with Premium Economy offering up to 38\u201d of seat pitch compared to Economy Class's 31-33\u201d seat pitch.",
+    "category":"aircraft",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Airbus A380.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Airbus A380",
+      "seating configurations",
+      "Premium Economy",
+      "Economy Class"
+    ],
+    "context":"\u2013 On-demand gourmet dining\n\u2013 18-24\u201d personal entertainment screens\n\u2013 Ample storage & power outlets\n\u2013 Enhanced amenity kits\n\u2013 Access to onboard lounge (on select aircraft)\n3. Premium Economy (CloudComfort)\n\u2022 Seating: Wider seats, extra legroom (2-3-2 or 2-4-2)\n\u2022 F eatures:\n\u2013 Up to 38\u201d seat pitch, 19\u2013"
+  },
+  {
+    "question":"How does the Airbus A380's double-deck design impact its seating capacity, particularly in relation to the different class configurations?",
+    "answer":"The Airbus A380's double-deck design allows for a significant increase in seating capacity, with a typical range of 500-575 passengers. This is achieved by dividing the aircraft into two decks: the main deck and the upper deck. The class configuration plays a crucial role in determining the actual seating capacity, as each class has its own specific number of seats. For example, the first-class section typically has only 8-14 seats, while the economy-class section can accommodate up to 450 passengers. This design allows airlines to optimize their seating capacity and passenger experience.",
+    "category":"aircraft",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Airbus A380.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Airbus A380",
+      "double-deck design",
+      "seating capacity",
+      "class configuration"
+    ],
+    "context":"Airbus A380: Overview & Cabin Features\nAircraft Overview: Airbus A380\nThe Airbus A380 is the world\u2019s largest passenger airliner, renowned for its\ndouble-deck, wide-body design, offering unmatched space, comfort, and quiet-\nness in long-haul travel. With its advanced aerodynamics and e\ufb00icient engines"
+  },
+  {
+    "question":"What is the recommended seating configuration for CloudLux (First Class) on the Airbus A350-900, and what are some of its key features?",
+    "answer":"The recommended seating configuration for CloudLux (First Class) on the Airbus A350-900 is 1-2-1. Some of its key features include fully enclosed private suites, lie-flat beds with luxury bedding, a personal 21\u201d HD touchscreen entertainment system, gourmet on-demand dining, and direct aisle access.",
+    "category":"aircraft",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Airbus A350.md",
+    "file_type":".md",
+    "tags":[
+      "Airbus A350",
+      "CloudLux",
+      "First Class",
+      "Seating Configuration"
+    ],
+    "context":"# Airbus A350 \u2013 CloudWay 24 Fleet Overview\n\n## Aircraft Overview\nThe **Airbus A350** is a next-generation, long-haul wide-body aircraft known for its advanced aerodynamics, fuel efficiency, and passenger comfort. Operated by CloudWay 24 on major intercontinental routes, the A350 delivers a premium f"
+  },
+  {
+    "question":"What is the primary characteristic that sets the Airbus A350 apart from other long-haul aircraft in terms of its operational efficiency?",
+    "answer":"The Airbus A350's advanced aerodynamics, which enable it to achieve significant fuel savings and reduce emissions.",
+    "category":"aircraft",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Airbus A350.docx",
+    "file_type":".docx",
+    "tags":[
+      "Airbus A350",
+      "aerodynamics",
+      "fuel efficiency"
+    ],
+    "context":"Airbus A350 \u2013 CloudWay 24 Fleet Overview\n\nAircraft Overview\n\nThe Airbus A350 is a next-generation, long-haul wide-body aircraft known for its advanced aerodynamics, fuel efficiency, and passenger comfort. Operated by CloudWay 24 on major intercontinental routes, the A350 delivers a premium flying ex"
+  },
+  {
+    "question":"What is the typical seating capacity for First Class on an Airbus A380, and how many seats can be configured in all-economy layout?",
+    "answer":"8-14 seats (typically), up to 853 seats (in all-economy layout)",
+    "category":"aircraft",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Airbus A380.docx",
+    "file_type":".docx",
+    "tags":[
+      "Airbus A380",
+      "seating capacity",
+      "first class"
+    ],
+    "context":"Airbus A380: Overview & Cabin Features\n\nAircraft Overview: Airbus A380\n\nThe Airbus A380 is the world\u2019s largest passenger airliner, renowned for its double-deck, wide-body design, offering unmatched space, comfort, and quietness in long-haul travel. With its advanced aerodynamics and efficient engine"
+  },
+  {
+    "question":"How does the Airbus A350's advanced aerodynamics contribute to its fuel efficiency, and what specific design features enable this optimization?",
+    "answer":"The Airbus A350's advanced aerodynamics are achieved through a combination of design features such as blended wing bodies, raked wingtips, and a high-bypass turbofan engine. These features reduce drag and increase lift, resulting in improved fuel efficiency. Additionally, the A350's aerodynamic design also enables the use of more efficient engine technologies, such as high-bypass engines, which further contribute to its fuel-saving capabilities.",
+    "category":"aircraft",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Airbus A350.html",
+    "file_type":".html",
+    "tags":[
+      "Airbus A350",
+      "Aerodynamics",
+      "Fuel Efficiency",
+      "Design Features"
+    ],
+    "context":"Airbus A350 \u2013 CloudWay 24 Fleet Overview\n\nAircraft Overview\n\nThe Airbus A350 is a next-generation, long-haul wide-body aircraft known for its advanced aerodynamics, fuel efficiency, and passenger comfort. Operated by CloudWay 24 on major intercontinental routes, the A350 delivers a premium flying ex"
+  },
+  {
+    "question":"How does the upgrade process from CloudSaver (Economy) to CloudLux (First Class) work, considering that each class has its own set of amenities and services?",
+    "answer":"The upgrade process from CloudSaver (Economy) to CloudLux (First Class) involves a multi-step approach. First, passengers must meet specific eligibility criteria, such as having a high-tier frequent flyer status or completing a minimum number of flights. Once eligible, they can request an upgrade through the airline's website or mobile app. If approved, they will be assigned a higher cabin class and enjoy upgraded amenities and services, including priority check-in, extra baggage allowance, gourmet meals, and lounge access.",
+    "category":"cabin_features",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Upgrade Your Seat.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "Upgrade process",
+      "Cabin classes",
+      "Amenities",
+      "Services"
+    ],
+    "context":"Upgrade Your Seat with CloudWay 24\n\nCloudWay 24 is committed to providing exceptional comfort and flexibility for all our passengers. Whether you seek additional legroom or wish to experience our top-tier service and amenities, upgrading your seat is seamless with CloudWay 24.\n\n\n\nWhy Upgrade?\n\nEnhan"
+  },
+  {
+    "question":"How does the cab policy determine eligibility for home pick-up and drop-off services, and what are the specific criteria for crew members residing within a 25 km radius of the hub airport?",
+    "answer":"The cab policy determines eligibility for home pick-up and drop-off services based on the crew member's residence location. Crew members residing within a 25 km radius of the hub airport (Mumbai, Delhi, Bengaluru) are eligible for this service. This means that if a pilot or cabin crew member lives within this specific distance from their designated airport or accommodation, they can request home pick-up and drop-off services.",
+    "category":"cabin_features",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Staff (Pilots and Cabin Crew) Cab Policy.html",
+    "file_type":".html",
+    "tags":[
+      "cab policy",
+      "eligibility criteria",
+      "residence location",
+      "hub airport"
+    ],
+    "context":"CloudWay 24 \u2013 Staff (Pilots and Cabin Crew) Cab Policy\n\nIntroduction\n\nAt CloudWay 24, the safety, punctuality, and well-being of our staff are top priorities. This cab policy outlines the official guidelines for ground transportation arrangements for our Pilots and Cabin Crew members to and from des"
+  },
+  {
+    "question":"What is the recommended sequence of cabin upgrades with CloudWay 24, assuming a passenger starts in Economy (CloudSaver) and wants to experience the highest level of service?",
+    "answer":"First, upgrade to Premium Economy (CloudComfort), then to Business Class (CloudElite), and finally to the highest tier available for that class (e.g., Fir class if upgrading from CloudElite).",
+    "category":"cabin_features",
+    "question_type":"process",
+    "difficulty":"Hard",
+    "source_file":"Upgrade Your Seat.docx",
+    "file_type":".docx",
+    "tags":[
+      "cabin-upgrades",
+      "CloudWay 24",
+      "business-class"
+    ],
+    "context":"Upgrade Your Seat with CloudWay 24\n\nCloudWay 24 is committed to providing exceptional comfort and flexibility for all our passengers. Whether you seek additional legroom or wish to experience our top-tier service and amenities, upgrading your seat is seamless with CloudWay 24.\n\n\n\nWhy Upgrade?\n\nEnhan"
+  },
+  {
+    "question":"A pilot is scheduled to fly a layover flight from Delhi airport to Mumbai airport, but due to unexpected traffic congestion, the estimated travel time for the hotel-to-airport transfer exceeds 2 hours. What should the pilot do according to CloudWay 24's cab policy?",
+    "answer":"The pilot should contact the airline's ground transportation provider to arrange an alternative mode of transportation or seek assistance from a colleague who is closer to the airport.",
+    "category":"cabin_features",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Staff (Pilots and Cabin Crew) Cab Policy.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "cab policy",
+      "layover flights",
+      "hotel transfers",
+      "traffic congestion"
+    ],
+    "context":"CloudWay 24 \u2013 Staff (Pilots and Cabin Crew)\nCab Policy\nIntroduction\nAt CloudWay 24, the safety, punctuality, and well-being of our staff are top pri-\norities. This cab policy outlines the o\ufb00icial guidelines for ground transportation\narrangements for our Pilots and Cabin Crew members to and from desi"
+  },
+  {
+    "question":"How does the cab policy determine eligibility for home pick-up and drop-off services, specifically for pilots residing within a 25 km radius of the hub airport?",
+    "answer":"The cab policy determines eligibility for home pick-up and drop-off services by considering the residential location of pilots within a 25 km radius of the hub airport (Mumbai, Delhi, Bengaluru). This means that pilots living within this specific geographic area are eligible to have their homes picked up from or dropped off at the airport.",
+    "category":"cabin_features",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Staff (Pilots and Cabin Crew) Cab Policy.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "cab policy",
+      "eligibility",
+      "home pick-up and drop-off",
+      "pilots",
+      "residential location"
+    ],
+    "context":"CloudWay 24 \u2013 Staff (Pilots and Cabin Crew) Cab Policy\n\n\n\nIntroduction\n\nAt CloudWay 24, the safety, punctuality, and well-being of our staff are top priorities. This cab policy outlines the official guidelines for ground transportation arrangements for our Pilots and Cabin Crew members to and from d"
+  },
+  {
+    "question":"What is the primary difference between upgrading from CloudSaver (Economy) to CloudComfort (Premium Economy), and then again from CloudComfort to CloudElite (Business Class)?",
+    "answer":"The primary difference lies in the level of service and amenities provided, with each upgrade offering increasingly more premium features, such as priority check-in, extra baggage allowance, gourmet meals, and lounge access.",
+    "category":"cabin_features",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Upgrade Your Seat.html",
+    "file_type":".html",
+    "tags":[
+      "comparative analysis",
+      "cabin upgrades",
+      "airline services"
+    ],
+    "context":"Upgrade Your Seat with CloudWay 24\n\nCloudWay 24 is committed to providing exceptional comfort and flexibility for all our passengers. Whether you seek additional legroom or wish to experience our top-tier service and amenities, upgrading your seat is seamless with CloudWay 24.\n\nWhy Upgrade?\n\nEnhance"
+  },
+  {
+    "question":"What are the specific steps to take in order to change your seat on a flight using CloudWay 24's mobile app, and what information is required for each step?",
+    "answer":"To change your seat on a flight using CloudWay 24's mobile app, you need to log in with your registered email or mobile number, navigate to \"Manage My Flight\", enter your booking reference (PNR) and last name, find your upcoming journey from the list, click on \"Change your seat\" under your flight details, and then select your preferred seat option.",
+    "category":"cabin_features",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Change Your Seat.docx",
+    "file_type":".docx",
+    "tags":[
+      "CloudWay 24",
+      "seat change process",
+      "mobile app",
+      "flight management"
+    ],
+    "context":"Change Your Seat with CloudWay 24\n\nCloudWay 24 offers a simple and flexible process for changing your seat to suit your comfort and preference. Whether you want extra legroom, prefer a window or aisle seat, or wish to sit closer to the front, you can manage your seat selection seamlessly through our"
+  },
+  {
+    "question":"What is the recommended method for logging into the CloudWay 24 website or mobile app to change seat preferences?",
+    "answer":"Logging in using your registered email or mobile number.",
+    "category":"cabin_features",
+    "question_type":"factual",
+    "difficulty":"Easy",
+    "source_file":"Change Your Seat.md",
+    "file_type":".md",
+    "tags":[
+      "CloudWay 24",
+      "seat selection",
+      "login process"
+    ],
+    "context":"# Change Your Seat with CloudWay 24\n\nCloudWay 24 offers a simple and flexible process for changing your seat to suit your comfort and preference. Whether you want extra legroom, prefer a window or aisle seat, or wish to sit closer to the front, you can manage your seat selection seamlessly through o"
+  },
+  {
+    "question":"What is the procedure for making an authorized cab ride, including any additional requirements or restrictions that may apply?",
+    "answer":"To make an authorized cab ride, crew members must ensure they are wearing their airline ID while in transit. The company will fully cover all authorized cab rides, with no cash exchange required. However, unauthorized personal deviations or additional stops are not covered and will require out-of-pocket payment.",
+    "category":"cabin_features",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Staff (Pilots and Cabin Crew) Cab Policy.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Cab Rides",
+      "Authorized Personnel",
+      "Airline ID",
+      "Company Reimbursement"
+    ],
+    "context":"Cab Types\n\u2022 Premium sedans for pilots.\n\u2022 Comfort sedans or MPV s for cabin crew (sharing with a maximum of\n3 crew per cab as per roster compatibility).\n\u2022 All cabs are company-contracted with verified drivers .\nSafety & Conduct\n\u2022 24\/7 availability of cabs for both day and night shifts.\n\u2022 GPS tracking"
+  },
+  {
+    "question":"What is the primary purpose of CloudWay 24's Lounge Access program?",
+    "answer":"The primary purpose of CloudWay 24's Lounge Access program is to provide a comfortable and luxurious pre-flight experience for premium guests, matching the level of cabin class they travel in.",
+    "category":"services",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Lounge Access.html",
+    "file_type":".html",
+    "tags":[
+      "lounge access",
+      "cloudway 24",
+      "premium guests"
+    ],
+    "context":"CloudWay 24 Lounge Access Guide\n\nCloudWay 24 offers exclusive lounge access for our premium guests, ensuring a comfortable and luxurious pre-flight experience at our main hubs and select international airports. Lounge access is designed to match the level of cabin class you travel in, offering every"
+  },
+  {
+    "question":"What is the specific protocol for reporting damaged baggage at the airport, and what information should be provided to support the claim?",
+    "answer":"Report immediately to the airline's customer service desk or baggage handling staff, and provide a detailed description of the damage, including photos or videos, as well as any relevant documentation such as receipts or proof of purchase.",
+    "category":"services",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Damaged Baggage Policy.docx",
+    "file_type":".docx",
+    "tags":[
+      "Damaged Baggage Policy",
+      "Airport Protocol",
+      "Claim Process"
+    ],
+    "context":"Damaged Baggage Policy \u2013 CloudWay 24\n\n\n\nOverview\n\nAt CloudWay 24, we strive to ensure the safety and care of your baggage throughout your journey. However, in the rare event your baggage is damaged during transit, we are committed to addressing your concerns promptly and fairly.\n\n\n\nWhat Qualifies as"
+  },
+  {
+    "question":"What is the specific date range for which airline restrictions on special baggage apply due to local laws, and how can I pre-arrange my special baggage?",
+    "answer":"The document does not specify a particular date range for restrictions on special baggage. However, it mentions that \"Restrictions applied for travel to\/from certain destinations due to local laws.\"",
+    "category":"services",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Special Baggage Policy.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Special Baggage Policy",
+      "Travel Restrictions",
+      "Local Laws"
+    ],
+    "context":"6. Exclusions and Restrictions\n\u2022 No carriage of explosive or incendiary items.\n\u2022 Restrictions applied for travel to\/from certain destinations due to local\nlaws.\n\u2022 Airline reserves the right to refuse any special baggage not meeting safety,\nsecurity, or compliance requirements.\nF or any questions or "
+  },
+  {
+    "question":"What is the correct procedure for accessing CloudLux Lounge if I am traveling in First Class, and what are the specific amenities available to me as a result of this access?",
+    "answer":"To access CloudLux Lounge, you will receive complimentary lounge access as a First Class passenger. As a result, you will have access to private suites, \u00e0 la carte gourmet dining, premium beverages & barista service, spa and shower facilities, private meeting rooms, high-speed Wi-Fi, and an entertainment lounge.",
+    "category":"services",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Lounge Access.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "CloudLux Lounge Access",
+      "First Class",
+      "Cabin Class",
+      "Amenities"
+    ],
+    "context":"CloudWay 24 Lounge Access Guide\n\nCloudWay 24 offers exclusive lounge access for our premium guests, ensuring a comfortable and luxurious pre-flight experience at our main hubs and select international airports. Lounge access is designed to match the level of cabin class you travel in, offering every"
+  },
+  {
+    "question":"What is the maximum number of musical instruments allowed as checked baggage in Economy Class, according to CloudWay 24's Special Baggage Policy?",
+    "answer":"Unfortunately, this information is not explicitly stated in the provided document. However, based on general airline policies, it's reasonable to assume that there might be a specific limit for musical instruments, but without further details, we cannot provide an accurate answer.",
+    "category":"services",
+    "question_type":"factual",
+    "difficulty":"Hard",
+    "source_file":"Special Baggage Policy.md",
+    "file_type":".md",
+    "tags":[
+      "CloudWay 24 Special Baggage Policy",
+      "Economy Class",
+      "Musical Instruments"
+    ],
+    "context":"# CloudWay 24 Special Baggage Policy\n\nCloudWay 24 offers customized handling and allowances for special baggage items across all travel classes. Passengers are encouraged to review class-wise entitlements and guidelines for items such as sports equipment, musical instruments, hunting\/sport rifles, a"
+  },
+  {
+    "question":"What is the primary purpose of declaring dangerous goods at check-in, as stated in CloudWay 24's Dangerous Goods Policy?",
+    "answer":"Declaration of dangerous goods must be made at check-in to ensure compliance with international aviation safety regulations and maintain passenger safety.",
+    "category":"policies",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Dangerous Goods Policy.html",
+    "file_type":".html",
+    "tags":[
+      "Dangerous Goods Policy",
+      "Aviation Safety Regulations",
+      "Passenger Safety"
+    ],
+    "context":"CloudWay 24 Dangerous Goods Policy\n\nAs per international aviation safety regulations and CloudWay 24\u2019s commitment to passenger safety, certain items are classified as Dangerous Goods and are strictly regulated. Please review the following policy to ensure compliance and avoid inconvenience during tr"
+  },
+  {
+    "question":"What is the standard accommodation requirement for pilots and cabin crew on layovers and duty periods away from home base, as per CloudWay 24's Staff Accommodation Policy?",
+    "answer":"According to the policy, pilots and cabin crew are provided with quality hotel accommodation that meets a minimum of 4-star standards, with chain hotels preferred for consistency.",
+    "category":"policies",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Staff Accommodation Policy.md",
+    "file_type":".md",
+    "tags":[
+      "cloudway 24",
+      "staff accommodation",
+      "pilot",
+      "cabin crew",
+      "layover"
+    ],
+    "context":"# CloudWay 24 \u2013 Staff Accommodation Policy: Pilots & Cabin Crew\n\n## Overview\nCloudWay 24 prioritizes the comfort and well-being of its onboard crew, recognizing that adequate rest is critical for safety and excellent passenger service. During layovers and duty periods away from home base, all pilots"
+  },
+  {
+    "question":"A pilot is scheduled for a layover in a city 3,000 miles away from their home base. The company has arranged for them to stay at a 4-star hotel that is not centrally located but rather near the airport. However, upon arrival, the pilot discovers that they have been allocated a single room instead of a double room as per the standard policy. What should the pilot do?",
+    "answer":"The pilot should contact their supervisor or HR representative to request an upgrade to a double room, as it is part of the company's standard accommodation policy for pilots on layovers.",
+    "category":"policies",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Staff Accommodation Policy.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "CloudWay 24 Staff Accommodation Policy",
+      "hotel allocation",
+      "single room vs double room"
+    ],
+    "context":"CloudWay 24 \u2013 Staff Accommodation Policy: Pi-\nlots & Cabin Crew\nOverview\nCloudWay 24 prioritizes the comfort and well-being of its onboard crew, recog-\nnizing that adequate rest is critical for safety and excellent passenger service.\nDuring layovers and duty periods away from home base, all pilots a"
+  },
+  {
+    "question":"What is considered valid ID proof for the Armed Forces Discount Program?",
+    "answer":"A Pension Payment Order, Ex-Serviceman Identity Card, or Retirement Card issued to retired personnel, and a Dependent ID Card issued to family members.",
+    "category":"policies",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Armed Forces Discount Program.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Armed Forces Discount",
+      "ID Proof",
+      "Military Benefits"
+    ],
+    "context":"\u2022 Pension Payment Order\/ Ex-Serviceman Identity Card\/ Retirement Card\n(for retired personnel)\n\u2022 Dependent ID Card (for family members)\nTerms & Conditions\n\u2022 The armed forces discount is subject to seat availability under the appli-\ncable fare class.\n\u2022 Discount is applicable only on base fare , not in"
+  },
+  {
+    "question":"How does the crew ensure that their accommodations meet health and safety standards, particularly in cases where they are experiencing irregular operations?",
+    "answer":"The crew ensures that their accommodations meet health and safety standards through a combination of pre-booking checks with the Crew Scheduling Department, who select hotels with robust security measures. Additionally, medical support or assistance is readily available from the hotel, and emergency contact information is escalated to CloudWay 24 Operations Control in case of any issues.",
+    "category":"policies",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Staff Accommodation Policy.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Staff Accommodation",
+      "Health & Safety",
+      "Crew Scheduling"
+    ],
+    "context":"\u2022 Health & safety: Chosen hotels have robust security and clean food op-\ntions.\n6. Special Provisions\n\u2022 Early check-in\/late check-out managed for irregular operations.\n\u2022 Medical support\/assistance from hotel or quick connections to local health-\ncare.\n\u2022 Emergency contact and escalation with CloudWay"
+  },
+  {
+    "question":"How does CloudWay 24's customer service process ensure that complex cases are resolved in a timely manner, considering the time frame mentioned for resolution?",
+    "answer":"According to the document, complex cases may require additional time beyond the standard 7 business days. This implies that while there is an overall commitment to resolving issues promptly, some cases may take longer due to their complexity or the need for further investigation.",
+    "category":"general",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Feedback or Complaints.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "customer service",
+      "complaint process",
+      "resolution time"
+    ],
+    "context":"5. Airport Customer Service Desks\n\u2022 Visit CloudWay 24 service desks at all main international airports (Mum-\nbai, Delhi, Bengaluru).\n\u2022 Speak directly to a representative regarding your feedback or complaint.\nWhat Happens Next?\n\u2022 Acknowledgement: You will receive an acknowledgement within 24\nhours of"
+  },
+  {
+    "question":"How do the working hours at CloudWay 24 differ from those in a typical international flight operation, considering factors such as shift duration and flexibility?",
+    "answer":"The working hours at CloudWay 24 are more rigid, with roster-based shifts ranging from 8-12 hours per shift, including weekends, holidays, and overnight layovers. In contrast, international flight operations often have more variable schedules, with pilots typically flying shorter segments (e.g., 4-6 hours) and having more control over their rest periods.",
+    "category":"general",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Careers at CloudWay 24.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "working hours",
+      "roster-based shifts",
+      "international flight operations",
+      "flexibility"
+    ],
+    "context":"Working Hours\n\u2022 Roster-based Shifts: 8\u201312 hours per shift, including weekends, holidays,\nand overnight layovers.\n\u2022 Flexible Schedules: Aligned with international flight operations and\nlayovers.\nLocation\n\u2022 Primary Location: Mumbai, India (Chhatrapati Shivaji Maharaj Inter-\nnational Airport)\n\u2022 Additio"
+  },
+  {
+    "question":"What year did CloudWay 24 win the SkyTrax World Airline Awards for Best Full-Service Airline in India, and what was the subsequent year it retained this title?",
+    "answer":"2022 and 2023",
+    "category":"general",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Awards & Recognitions.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "CloudWay 24",
+      "SkyTrax World Airline Awards",
+      "India"
+    ],
+    "context":"CloudWay 24 \u2013 Awards & Recognitions\n\n\n\nBringing Excellence to Every Mile Flown\n\nSince its inception in 2013, CloudWay 24 has continually set new benchmarks for international travel, earning prestigious accolades for outstanding service, reliability, and innovation. Our passion for seamless skies and"
+  },
+  {
+    "question":"What is the difference in visa requirements for Indian tourists traveling to Malaysia compared to those traveling to Indonesia?",
+    "answer":"In Malaysia, Indian tourists can apply for an E-Visa online prior to travel, which is valid for 30 days. In contrast, Indonesian citizens are eligible for a Visa-on-arrival, which also has a validity of 30 days but requires a USD fee.",
+    "category":"general",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Visa and Passport Requirements Asia.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "visa requirements",
+      "India",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "context":"4. Malaysia\n\u2022 E-Visa: A vailable for Indian tourists (Apply online prior to travel, valid\nfor 30 days)\n\u2022 Visa-On-Arrival: Possible when arriving from Singapore, Thailand, In-\ndonesia, or Brunei (conditions apply)\n\u2022 Requirements: Proof of funds, return\/onward ticket, hotel booking\n5. United Arab Emir"
+  },
+  {
+    "question":"What is the minimum age requirement for pets to travel with CloudWay 24, as stated in their general policy?",
+    "answer":"At least 3 months old.",
+    "category":"general",
+    "question_type":"factual",
+    "difficulty":"Easy",
+    "source_file":"ravelling with Pets.docx",
+    "file_type":".docx",
+    "tags":[
+      "pet travel",
+      "age restriction"
+    ],
+    "context":"Travelling with Pets on CloudWay 24\n\nCloudWay 24 welcomes you and your furry companions aboard! To ensure a pleasant and safe journey for both you and your pet, please review our comprehensive guidelines for travelling with pets.\n\n\n\nGeneral Policy\n\nEligible Pets: Cats and small dogs (domesticated), "
+  },
+  {
+    "question":"What are the three additional benefits or perks that CloudWay 24 offers to students with their Student Offers, apart from the discount, extra baggage allowance, and flexible date change?",
+    "answer":"Flexible Date Change, Priority Check-In",
+    "category":"general",
+    "question_type":"listing",
+    "difficulty":"Medium",
+    "source_file":"Student Offers.md",
+    "file_type":".md",
+    "tags":[
+      "student offers",
+      "cloudway 24",
+      "travel discounts"
+    ],
+    "context":"# CloudWay 24 \u2013 Student Offers\n\nCloudWay 24 recognizes the unique travel needs of students pursuing education or attending academic events across the globe. Our exclusive **Student Offers** provide valuable benefits and flexibility, making international journeys more affordable and comfortable!\n\n---"
+  },
+  {
+    "question":"How do Pilots and Cabin Crew differ in terms of eligible expenses for reimbursement, with a focus on the specific conditions under which meals & refreshments are considered reimbursable?",
+    "answer":"Meals & refreshments are reimbursable when not provided by CloudWay 24 during layovers. In contrast, uniform maintenance is only reimbursable if it occurs during extended layovers (minimum 2 nights).",
+    "category":"general",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Staff Expense Claim Procedure.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "Staff Expense Claim Procedure",
+      "Pilots",
+      "Cabin Crew",
+      "Eligible Expenses"
+    ],
+    "context":"CloudWay 24 Staff Expense Claim Procedure\n\nFor Pilots and Cabin Crew \u2013 Non-Accommodation and Non-Transport Expenses\n\n\n\nOverview\n\nThis procedure outlines how CloudWay 24 Pilots and Cabin Crew may claim reimbursement for approved expenses incurred during duty travel, excluding accommodation and transp"
+  },
+  {
+    "question":"What steps would you take to request a special meal option (e.g. Vegan, Gluten-Free) on a CloudSaver flight, and how would you ensure that your request is accommodated?",
+    "answer":"To request a special meal option on a CloudSaver flight, follow these steps:",
+    "category":"general",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Fine-Dining Menus.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "CloudSaver",
+      "special meal requests",
+      "dietary requirements",
+      "airline procedures"
+    ],
+    "context":"Highlights: - Multi-course meals with a choice of W estern, Asian, and\nIndian dishes - Salads, fresh bread rolls, and more substantial entrees\n- Rotating desserts and fruit plates - A variety of soft drinks, juices,\nand complimentary hot beverages\nCloudSaver (Economy Class)\nOverview:\nCloudSaver menu"
+  },
+  {
+    "question":"What is an Unaccompanied Minor?",
+    "answer":"An Unaccompanied Minor is a child who travels alone, typically between the ages of 5-12 years, and requires special handling and escort services provided by CloudWay 24 during their flight.",
+    "category":"general",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Flying with Children.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Flying with Children",
+      "CloudWay 24",
+      "Unaccompanied Minors"
+    ],
+    "context":"Flying with Children on CloudWay 24\nTraveling with young passengers? At CloudW ay 24, we strive to make your\njourney as seamless and comfortable as possible for families and children of all\nages. Here\u2019s everything you need to know about flying with children on our\nnetwork.\nPre-flight Preparation\n\u2022 B"
+  },
+  {
+    "question":"How does the CloudWay 24 Trainee Pilot Programme ensure that trainees receive comprehensive training in both theoretical and practical aspects of aviation, considering the varying fleet types and aircraft models?",
+    "answer":"The programme combines rigorous academic instruction through ground school, state-of-the-art simulator training, and hands-on flight experience with modern fleet of Boeing and Airbus aircraft. This well-rounded approach allows trainees to gain a broad understanding of aviation principles while also gaining practical experience on specific aircraft models such as the Boeing 787 Dreamliner, Airbus A350, and A380.",
+    "category":"general",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"Trainee Pilot Programme.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "Aviation Training",
+      "Pilot Programme",
+      "Fleet Exposure",
+      "Simulator Training"
+    ],
+    "context":"CloudWay 24 Trainee Pilot Programme\n\nCloudWay 24 is committed to nurturing the next generation of world-class aviators through its prestigious Trainee Pilot Programme. Designed for passionate and driven individuals, our programme combines rigorous academic instruction, state-of-the-art simulator tra"
+  },
+  {
+    "question":"You have recently experienced a delay in your flight due to bad weather, and you're planning to file a complaint using the CloudWay 24 mobile app. However, when you open the app, you realize that you can't find the \"Support > Feedback & Complaints\" option anywhere. What should you do next?",
+    "answer":"You should visit the CloudWay 24 website (CloudWay24.com) and fill out the online feedback\/complaint form with details about your journey, including your booking reference (PNR), flight details, and contact information.",
+    "category":"general",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Feedback or Complaints.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "customer service",
+      "complaint procedure",
+      "mobile app",
+      "online support"
+    ],
+    "context":"CloudWay 24 \u2013 Feedback & Complaints\nAt CloudW ay 24, we are dedicated to providing you with the highest standard\nof service. Your feedback and complaints are invaluable to us as they help us\nimprove your travel experience. If you have any feedback, suggestions, or con-\ncerns regarding your recent jo"
+  },
+  {
+    "question":"What is the recommended workflow for issuing documentary credits, including the steps involved in presenting and examining the credit, and how does this process differ from documentary collections?",
+    "answer":"The recommended workflow for issuing documentary credits involves the following steps:",
+    "category":"general",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Trade.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Trade finance",
+      "Documentary credits",
+      "Workflow",
+      "International trade"
+    ],
+    "context":"5. Core Modules & Functionality\n5.1 Documentary Credit Management\nFeatures:\n Credit issuance and amendments\n LC types: revocable, irrevocable, confirmed\n Presentation handling\n Discrepancy management\n Payment settlement\nWorkflow: Application \u2192 Issuance \u2192 Advice \u2192 Presentation \u2192 Examination \u2192 Se"
+  },
+  {
+    "question":"What is the recommended method for canceling a booking on CloudWay 24, considering the two convenient options provided?",
+    "answer":"You can cancel your booking in two convenient ways: Website or CloudWay 24 Mobile App (iOS\/Android).",
+    "category":"general",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Cancel Your Booking.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "CloudWay 24",
+      "cancellation process",
+      "travel planning"
+    ],
+    "context":"Cancel Your Booking with CloudWay 24\n\nCloudWay 24 aims to provide passengers with flexibility and control over their travel plans. If you need to cancel your booking for any reason, our streamlined process ensures a hassle-free experience both online and via our mobile app.\n\n\n\nHow to Cancel Your Boo"
+  },
+  {
+    "question":"What is an e-visa, and how does its application process differ for Indian citizens traveling to Singapore?",
+    "answer":"An e-visa is an electronic visa that can be applied for online before travel. For Indian citizens, an e-visa is required (apply before travel) and is available for select categories up to 30 days.",
+    "category":"general",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Visa and Passport Requirements Asia.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Visa requirements",
+      "Electronic visas",
+      "Travel documentation",
+      "India-Singapore relations"
+    ],
+    "context":"Visa and Passport Requirements for Destinations\nin Asia\nA comprehensive guide for CloudWay 24 travelers\nGeneral Guidelines\n\u2022 Passport V alidity:\nMost Asian countries require a passport with at least 6 months\u2019 validity\nfrom the date of entry.\n\u2022 Blank Pages:\nAt least 2 blank pages are usually recommen"
+  },
+  {
+    "question":"What is the minimum passport validity required for travel to Schengen (Europe) countries, compared to other international destinations?",
+    "answer":"For Schengen (Europe) countries, a minimum passport validity of 6 months from the date of arrival is required, whereas for other international destinations, the same requirement applies.",
+    "category":"general",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Check Your Visa and Passport Requirements.pptx",
+    "file_type":".pptx",
+    "tags":[
+      "visa requirements",
+      "passport validity",
+      "travel documents"
+    ],
+    "context":"CloudWay 24: Visa and Passport Requirements Guide\n\n\n\nCheck Your Visa and Passport Requirements\n\nBefore booking your CloudWay 24 flight, ensure that you meet all entry requirements for your destination. Below is a quick-reference guide for visa and passport requirements for travelers from India to co"
+  },
+  {
+    "question":"How would CloudWay 24 ensure compliance with the Right to Care & Assistance, specifically in cases where a passenger's flight is delayed by more than 2 hours and they are entitled to compensation?",
+    "answer":"To ensure compliance with the Right to Care & Assistance, CloudWay 24 should have a clear process in place for handling delayed flights. This may include providing passengers with regular updates on the expected departure time, offering food and drink vouchers or other forms of compensation, and ensuring that passengers are accommodated in suitable accommodations if their flight is cancelled.",
+    "category":"general",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"CloudWay 24 \u2013 Passenger Rights.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "passenger rights",
+      "airline regulations",
+      "customer service",
+      "compensation policies"
+    ],
+    "context":"CloudWay 24 \u2013 Passenger Rights\nAt CloudWay 24, we are committed to providing a safe, comfortable, and reliable\ntravel experience for all our passengers. We believe in transparency, prompt\ncommunication, and protecting the interests of our travelers. Below are your\nfundamental passenger rights when f"
+  },
+  {
+    "question":"What is the typical timeframe for refunds to be processed after cancelling a booking, compared to how soon third-party\/travel agent bookings can receive assistance with cancellations?",
+    "answer":"Refunds are typically processed within 7\u201310 business days for direct bookings, but may require contacting the respective agent for third-party\/travel agent bookings.",
+    "category":"general",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Cancel Your Booking.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "refund processing",
+      "cancellation policies",
+      "travel booking"
+    ],
+    "context":"\u2022 Processing time: Refunds are typically processed within 7\u201310 business\ndays.\nNote:\n\u2022 Cancellation fees may apply based on fare class and timing.\n\u2022 No-shows or last-minute cancellations may receive reduced refunds.\n\u2022 For third-party\/travel agent bookings, please contact the respective agent\nfor canc"
+  },
+  {
+    "question":"What is the primary benefit of CloudWay 24's Student Offers for international students?",
+    "answer":"The primary benefit of CloudWay 24's Student Offers is to make international journeys more affordable and comfortable by providing valuable benefits such as up to 10% discount, extra baggage allowance, flexible date change, and priority check-in.",
+    "category":"general",
+    "question_type":"definition",
+    "difficulty":"Medium",
+    "source_file":"Student Offers.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "student offers",
+      "cloudway 24",
+      "travel discounts"
+    ],
+    "context":"CloudWay 24 \u2013 Student Offers\nCloudWay 24 recognizes the unique travel needs of students pursuing education\nor attending academic events across the globe. Our exclusiveStudent Offers\nprovide valuable benefits and flexibility, making international journeys more\naffordable and comfortable!\nStudent Offe"
+  },
+  {
+    "question":"I recently had a disappointing experience with my flight, the in-flight meal was cold and the seat was uncomfortable. What should I do next to share my feedback or file a complaint about my recent journey?",
+    "answer":"You should visit CloudWay24.com\/feedback and fill out the online form providing your booking reference (PNR), flight details, and contact information for prompt assistance.",
+    "category":"general",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Feedback or Complaints.docx",
+    "file_type":".docx",
+    "tags":[
+      "customer service",
+      "feedback",
+      "complaints",
+      "travel experience"
+    ],
+    "context":"CloudWay 24 \u2013 Feedback & Complaints\n\nAt CloudWay 24, we are dedicated to providing you with the highest standard of service. Your feedback and complaints are invaluable to us as they help us improve your travel experience. If you have any feedback, suggestions, or concerns regarding your recent jour"
+  },
+  {
+    "question":"What is the main difference in travel time between CloudWay 24's flight from Mumbai to New York (JFK) and its flight from Mumbai to Los Angeles (LAX)?",
+    "answer":"The travel time for the flight from Mumbai to New York (JFK) is 15 hours and 50 minutes, while the travel time for the flight from Mumbai to Los Angeles (LAX) is 16 hours.",
+    "category":"general",
+    "question_type":"comparative",
+    "difficulty":"Medium",
+    "source_file":"Mumbai Inbound & Outbound Flights.docx",
+    "file_type":".docx",
+    "tags":[
+      "CloudWay 24",
+      "Mumbai",
+      "USA",
+      "Flight Schedule",
+      "Travel Time"
+    ],
+    "context":"CloudWay 24: Mumbai\u2013USA Flight Schedule\n\nAll timings are local. Aircraft type and durations are approximate. Flight numbers and schedules for illustrative purposes.\n\n\n\nOutbound Flights: Mumbai to USA\n\nFlight No.\n\nDestination City\n\nDeparture (BOM)\n\nArrival (Local)\n\nAircraft Type\n\nTravel Time\n\nCW241\n\n"
+  },
+  {
+    "question":"How does CloudWay 24's mobile app handle the difference between round-trip and one-way flights when booking a flight, and what specific options are available for each trip type?",
+    "answer":"When booking a flight through the CloudWay 24 mobile app, users can choose between Round Trip and One Way. For Round Trips, the app allows users to select both departure and return dates. In contrast, for One Way flights, users can only input their preferred departure date. This distinction is crucial in ensuring accurate calculations for fares and any applicable discounts.",
+    "category":"general",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"How to Book a Flight.html",
+    "file_type":".html",
+    "tags":[
+      "CloudWay 24",
+      "mobile app",
+      "trip types",
+      "round-trip",
+      "one-way"
+    ],
+    "context":"How to Book a Flight with CloudWay 24\n\nCloudWay 24 offers an easy and seamless booking experience via their website and mobile app (available for iOS and Android). Follow these steps to book your next international journey!\n\nStep-by-Step Guide to Booking a Flight\n\n1. Sign Up \/ Log In\n\nVisit CloudWay"
+  },
+  {
+    "question":"What is the typical sequence of steps for a CloudLux guest to enjoy their fine-dining experience on board, considering the customizable nature of the menu and the variety of options available?",
+    "answer":"A CloudLux guest can expect the following steps:",
+    "category":"general",
+    "question_type":"process",
+    "difficulty":"Medium",
+    "source_file":"Fine-Dining Menus.docx",
+    "file_type":".docx",
+    "tags":[
+      "CloudLux",
+      "fine-dining",
+      "customizable menu",
+      "seasonal tasting menus"
+    ],
+    "context":"CloudWay 24 Fine-Dining Menus (Class-wise Overview)\n\nAt CloudWay 24, our commitment to culinary excellence shines through in every class. Our menus are expertly curated, inspired by global cuisines and regional favorites, and updated seasonally to offer diversity and freshness. Here\u2019s a class-wise o"
+  },
+  {
+    "question":"How does CloudWay 24 ensure the health and safety of pets during international flights, considering that not all pets are eligible for travel?",
+    "answer":"CloudWay 24 ensures the health and safety of pets by only allowing cats and small dogs (domesticated) in good health and at least 3 months old on their international flights. This policy is designed to minimize risks associated with traveling long distances and to prevent potential health issues that may arise during the flight.",
+    "category":"general",
+    "question_type":"explanatory",
+    "difficulty":"Medium",
+    "source_file":"ravelling with Pets.md",
+    "file_type":".md",
+    "tags":[
+      "pet travel",
+      "health and safety",
+      "airline policy"
+    ],
+    "context":"# Travelling with Pets on CloudWay 24\n\nCloudWay 24 welcomes you and your furry companions aboard! To ensure a pleasant and safe journey for both you and your pet, please review our comprehensive guidelines for travelling with pets.\n\n---\n\n## General Policy\n\n- **Eligible Pets:** Cats and small dogs (d"
+  },
+  {
+    "question":"Emily, a student aged 25, has booked her flight with CloudWay 24 for an upcoming academic conference in Tokyo. She realizes that she needs to bring an additional piece of luggage due to the conference's requirements. What should Emily do to accommodate this extra baggage?",
+    "answer":"Emily should contact CloudWay 24's customer support to request a one-time free date change, as per the Student Offer Highlights section, and then check-in at the dedicated student counter to ensure she gets her extra checked bag (up to 23kg) on her flight.",
+    "category":"general",
+    "question_type":"scenario",
+    "difficulty":"Medium",
+    "source_file":"Student Offers.html",
+    "file_type":".html",
+    "tags":[
+      "cloudway 24",
+      "student offers",
+      "baggage allowance",
+      "flexible date change"
+    ],
+    "context":"CloudWay 24 \u2013 Student Offers\n\nCloudWay 24 recognizes the unique travel needs of students pursuing education or attending academic events across the globe. Our exclusive Student Offers provide valuable benefits and flexibility, making international journeys more affordable and comfortable!\n\nStudent O"
+  },
+  {
+    "question":"What is the minimum required information to cancel a booking on CloudWay 24's website, as per their streamlined process?",
+    "answer":"The minimum required information to cancel a booking on CloudWay 24's website includes the Booking reference and Last name.",
+    "category":"general",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Cancel Your Booking.md",
+    "file_type":".md",
+    "tags":[
+      "CloudWay 24",
+      "cancellation process",
+      "online booking"
+    ],
+    "context":"# Cancel Your Booking with CloudWay 24\n\nCloudWay 24 aims to provide passengers with flexibility and control over their travel plans. If you need to cancel your booking for any reason, our streamlined process ensures a hassle-free experience both online and via our mobile app.\n\n---\n\n##  How to Cancel"
+  },
+  {
+    "question":"What amenities and services are available for young flyers (CloudSaver and above) to ensure their comfort during the flight?",
+    "answer":"Infant seat belts and baby cots are available in specific rows, while activity kits and soft toys such as CloudSaver are provided.",
+    "category":"general",
+    "question_type":"listing",
+    "difficulty":"Medium",
+    "source_file":"Flying with Children.pdf",
+    "file_type":".pdf",
+    "tags":[
+      "Flying with Children",
+      "Amenities",
+      "Services",
+      "Child-Friendly"
+    ],
+    "context":"\u2022 Amenities\n\u2013 Infant seat belts and baby cots (in specific rows).\n\u2013 Activity kits and soft toys for young flyers (CloudSaver and above).\n\u2022 F acilities\n\u2013 Changing tables in restrooms.\n\u2013 Warming facilities for milk and baby food.\nChild-Friendly Meals\n\u2022 Pre-Order:\n\u2013 Reserve child meals (vegetarian and "
+  },
+  {
+    "question":"What are the three ways I can request special assistance for my air travel, and what is the recommended timeframe to inform CloudWay 24?",
+    "answer":"You can request special assistance during the booking process on CloudWay24.com or the mobile app, by contacting our Customer Service Team via email or phone, or at the airport check-in counter prior to your flight. It's recommended to inform us at least 48 hours before departure.",
+    "category":"general",
+    "question_type":"listing",
+    "difficulty":"Medium",
+    "source_file":"Special Assistance.docx",
+    "file_type":".docx",
+    "tags":[
+      "cloudway 24",
+      "special assistance",
+      "air travel"
+    ],
+    "context":"Special Assistance at CloudWay 24\n\nCloudWay 24 is committed to making air travel accessible, comfortable, and convenient for every passenger. If you require any kind of special assistance for your journey, our dedicated team is here to help at every step \u2013 from booking your ticket to arriving at you"
+  },
+  {
+    "question":"What is the recommended format for providing booking reference (PNR), flight details, and contact information when submitting feedback or filing a complaint through the CloudWay 24 online form?",
+    "answer":"The recommended format includes providing the booking reference (PNR), flight details, and contact information to ensure prompt assistance.",
+    "category":"general",
+    "question_type":"factual",
+    "difficulty":"Medium",
+    "source_file":"Feedback or Complaints.html",
+    "file_type":".html",
+    "tags":[
+      "CloudWay 24",
+      "online form",
+      "feedback submission"
+    ],
+    "context":"CloudWay 24 \u2013 Feedback & Complaints\n\nAt CloudWay 24, we are dedicated to providing you with the highest standard of service. Your feedback and complaints are invaluable to us as they help us improve your travel experience. If you have any feedback, suggestions, or concerns regarding your recent jour"
+  }
+]

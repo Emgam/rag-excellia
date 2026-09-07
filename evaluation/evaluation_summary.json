@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-08-20T10:55:56.818883",
+  "total_queries": 30,
+  "successful": 30,
+  "failed": 0,
+  "avg_confidence": 0.31666666666666665,
+  "reliable_percentage": 63.33333333333333,
+  "avg_response_time": 31.971361549695335,
+  "avg_similarity": 0.2938189357299835
+}

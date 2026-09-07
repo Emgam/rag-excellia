@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How do I authenticate against the Payments API?",
+    "relevant_chunk_ids": ["REPLACE_WITH_REAL_CHUNK_ID_1"]
+  },
+  {
+    "question": "What is the retry policy for failed webhook deliveries?",
+    "relevant_chunk_ids": ["REPLACE_WITH_REAL_CHUNK_ID_2"]
+  }
+]

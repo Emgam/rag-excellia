@@ -1,0 +1,94 @@
+# ==========================================
+# 1. PYTHON & ENVIRONNEMENT
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# 2. SECRETS & CONFIGURATION
+# ==========================================
+# Ne jamais pousser les variables d'environnement sur Git !
+.env
+.env.local
+.env.production
+
+# ==========================================
+# 3. FICHIERS D'IA & MODÈLES LOURDS
+# ==========================================
+# Ignorer les poids des modèles téléchargés localement
+*.bin
+*.onnx
+*.gguf
+*.pt
+*.pth
+*.safetensors
+
+# Ignorer l'index BM25 sérialisé
+*.pkl
+
+# ==========================================
+# 4. DONNÉES DU PROJET & CACHE
+# ==========================================
+# Les documents sources et les bases de données locales
+data/
+cache/
+cache/huggingface/
+documents/
+
+# Fichiers d'évaluation générés
+evaluation/production_results.csv
+evaluation/final_results.csv
+evaluation/report.json
+
+# ==========================================
+# 5. DOCKER (Volumes locaux)
+# ==========================================
+qdrant_data/
+redis_data/
+ollama_data/
+
+# ==========================================
+# 6. EDITEURS & OS
+# ==========================================
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# 7. LATEX (Pour votre rapport de stage)
+# ==========================================
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.lof
+*.lot
