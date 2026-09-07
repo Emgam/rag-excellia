@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Excellia RAG
 
 Local-first, enterprise documentation assistant. See the original design
@@ -54,3 +55,7 @@ The included tests (`tests/`) are deterministic and require no model
 downloads — they cover chunking invariants (tables/code never split),
 code-boundary extraction (Python `ast` + brace-matching), RRF fusion,
 confidence gating, and evaluation metrics.
+=======
+# rag-excellia
+ 100% Local &amp; CPU-based RAG Assistant for enterprise documentation. Zero-Cloud, Zero-Hallucination. Features Hybrid Search (Qdrant+BM25), Smart LLM Routing (Qwen), and Dynamic NLI Security Gates.
+>>>>>>> 3091a65a79f1e83ca152768d82a9bdb49ead74a8
